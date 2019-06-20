@@ -3278,6 +3278,6 @@ client.on('guildMemberAdd', member => {
 
 	
 	
-client.login('process.env.NTkxMzkyMTc3MzM5MjM2MzYy.XQwHVg.R_A1zLNomCL2vLfJK7l_VUue-S4');
+client.login('process.env.BOT_TOKEN');
  
 
