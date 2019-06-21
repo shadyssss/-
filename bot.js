@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const Canvas = require('canvas')
 const client = new Discord.Client();
-const prefix = '=';
+const prefix = '*';
  
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
@@ -3278,7 +3278,7 @@ client.on('guildMemberAdd', member => {
 
 	
 	
-client.login('NTkxNDE4MjgxMzMyODM0MzA0.XQwfOQ.lag0Vla9vcZFq6NKrgWItGGllJo);
+client.login('NTkxMzgyMjI2NzY4MzYzNTQ3.XQ0U7Q.EvfI9fax1gSJzHmB-ZO0DYQjqQY);
 
  
 
