@@ -7,7 +7,7 @@
   "author": "Mostafa Eweda <mo.eweda@gmail.com>",
   "dependencies": {
     "ascii-data-table": "^2.1.1",
-    "async": "~0.2.8",
+    "async": "~2.6.4",
     "canvas": "^1.6.11",
     "common-tags": "^1.8.0",
     "dateformat": "^3.0.3",
